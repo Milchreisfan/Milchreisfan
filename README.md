@@ -3,6 +3,7 @@
 - ⌨️ Ich programmiere Plugins für PocketMine.
 - 🍝 Am liebsten esse ich Pasta xD
 - 📍 Ich komme aus Bayern.
+- 🛹 In meiner Freizeit skate ich gerne! c:
 
 Mein Server:
 Galaxynight.de
