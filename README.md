@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milchreisfan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milchreisfan&show_icons=true&theme=dark)
 - 👋 Hey, ich bin Milchreisfan auch genannt Jo!
 - 🦕 Ich liebe Dinos:)
 - ⌨️ Ich programmiere Plugins für PocketMine.
