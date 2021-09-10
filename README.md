@@ -3,3 +3,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milchreisfan&repo=LittleCore)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 I'm Jo
 - ⌨️ I'm a little german developer.
+- ⁉️ If you need help by your pocketmine server then ask somebody else lol, nah just kidding just ask me xD
