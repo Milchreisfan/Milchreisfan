@@ -33,7 +33,7 @@ I've always been fascinated by programming. I mean you can do so much with codin
 _Contact:_ 
 
 - Make an issue
-- Write me on [![alt](https://www.instagram.com/milkyway._.isda/)Instagram]
+- Write me on Instagram: milkyway._.isda
 
 _Helpers:_
 
