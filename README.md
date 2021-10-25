@@ -37,10 +37,8 @@ _Contact:_
 
 _Helpers:_
 
-- [![alt](https://github.com/supercrafter333)SuperCrafter333]
-
-- [![alt](https://github.com/kay313)Kay313]
-
-- [![alt](https://github.com/kinikoyt)KinikoYT]
+- Supercrafter333
+- Kay313
+- KinikoYT
 
 **Thank you! :heart:!**
