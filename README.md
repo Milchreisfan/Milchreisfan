@@ -33,14 +33,14 @@ I've always been fascinated by programming. I mean you can do so much with codin
 _Contact:_ 
 
 - Make an issue
-- Write me on [![alt](https://www.instagram.com/milkyway._.isda/)Instagram
+- Write me on [![alt](https://www.instagram.com/milkyway._.isda/)]Instagram
 
 _Helpers:_
 
-- [![alt](https://github.com/supercrafter333)SuperCrafter333
+- [![alt](https://github.com/supercrafter333)]SuperCrafter333
 
-- [![alt](https://github.com/kay313)Kay313
+- [![alt](https://github.com/kay313)]Kay313
 
-- [![alt](https://github.com/kinikoyt)KinikoYT
+- [![alt](https://github.com/kinikoyt)]KinikoYT
 
 **Thank you! :heart:!**
