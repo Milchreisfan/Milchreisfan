@@ -9,8 +9,6 @@ I'm a german little developer.
 I really like to help other people.
 I am coding plugins for "PocketMine-MP", well maybe the plugins support OpenTouch and Altay but i don't know i've never tested it.
 I am the owner from LittleCore and an minecraft server.
-I got a girlfriend and she's the love of my life<3
-
 
 # I like... #
 
@@ -23,10 +21,24 @@ I hate if people are telling lies or talk behind others.
 
 # Why i started coding? #
 
-I've always been fascinated by programming. I mean you can do so much with coding. One day I thought then oh come on just do it and start coding.
+I've always been fascinated by programming. I mean you can do so much with coding. One day I thought then oh come on just do it and start coding
 
 # My projects #
 
 » LittleCore -> https://github.com/Milchreisfan/LittleCore/
 [![alt](https://github.com/Milchreisfan/LittleCore/blob/master/lc.png)](https://github.com/Milchreisfan/LittleCore)
-» School -> https://github.com/Milchreisfan/School/
+
+# Other #
+
+_Contact:_ 
+
+- Make an issue
+- Write me on Instagram: [milkyway._.isda][instagram]
+
+_Helpers:_
+
+- [supercrafter333][github]
+- [Kay313][github]
+- [KinikoYT][github]
+
+**Thank you! :heart:!**
