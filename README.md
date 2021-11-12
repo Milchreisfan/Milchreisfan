@@ -28,8 +28,7 @@ I've always been fascinated by programming. I mean you can do so much with codin
 
 _Contact:_ 
 
-- Make an issue
-- Write me on Instagram: milkyway._.isda
+- Make an issue at https://github.com/Milchreisfan/ContactMe
 
 _Helpers:_
 
@@ -42,3 +41,4 @@ _Helpers:_
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milchreisfan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milchreisfan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milchreisfan&repo=LittleCore)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milchreisfan&repo=ContactMe)](https://github.com/anuraghazra/github-readme-stats)
