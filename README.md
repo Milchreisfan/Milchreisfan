@@ -23,6 +23,7 @@ I've always been fascinated by programming. I mean you can do so much with codin
 
 » LittleCore -> https://github.com/Milchreisfan/LittleCore/
 [![alt](https://github.com/Milchreisfan/LittleCore/blob/master/lc.png)](https://github.com/Milchreisfan/LittleCore)
+» ClearChat -> https://github.com/Kay313/ClearChat/
 
 # Other #
 
