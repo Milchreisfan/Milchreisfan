@@ -1,11 +1,10 @@
 # Who am I? #
 
-My name is Johanna but please call me Jo.
+My name is Jo.
 I'm a german little developer.
 I really like to help other people.
 I am coding plugins for "PocketMine-MP", well maybe the plugins support OpenTouch and Altay but i don't know i've never tested it.
-I am the owner from LittleCore and an minecraft server.
-
+I am the owner from LittleCore. (Helpers @supercrafter333, @Kay313, @KinikoYT, @rglu)
 # I like... #
 
 I really like to play minecraft. (Java and Bedrock)
@@ -36,8 +35,9 @@ _Helpers:_
 - Supercrafter333
 - Kay313
 - KinikoYT
+- Rglu
 
-**Thank you! :heart:!**
+**Thank you! :heart:**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milchreisfan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milchreisfan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
