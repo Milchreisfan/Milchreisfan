@@ -1,6 +1,6 @@
 # Who am I? #
 
-My name is Jo.
+My name is Joe.
 I'm a german little developer.
 I really like to help other people.
 I am coding plugins for "PocketMine-MP", well maybe the plugins support OpenTouch and Altay but i don't know i've never tested it.
